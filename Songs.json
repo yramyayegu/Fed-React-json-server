@@ -1,0 +1,27 @@
+{
+
+ "title": { 
+	"title" : "FED React : Assignment3 : Router, JSON Server",
+	"subtitle" : "Display Songs info from the JSON Server"
+	},
+"about": { 
+	"title" : "About page: This app display the song List"
+	},
+	
+  "songlist": [
+
+	{ "id": 1,"title": "Hey Pillagaada"},
+	{ "id": 2,"title": "Rang De"},
+    { "id": 3,"title": "Samajavaragamana"},
+    { "id": 4,"title": "Enjoy Enjaami"},
+    { "id": 5,"title": "EksanamChachiye"}
+  ],
+    "songdetails": [
+
+	{ "id": 1,"language":"Telugu","movie":"Fidaa", "title": "Hey Pillagaada", "song_length": "4:80", "singer" : "Sindhuri" },
+	{ "id": 2,"language":"Telugu","movie":"A Aa", "title": "Rang De", "song_length": "4:01", "singer" : "Ramya Behara" },
+    { "id": 3,"language":"Telugu","movie":"Ala Vaikunthapurramuloo", "title": "Samajavaragamana", "song_length": "3:36", "singer" : "Sid Sriram" },
+    { "id": 4,"language":"Tamil","movie":"Music Album", "title": "Enjoy Enjaami", "song_length": "4:38", "singer" : "Dhee, Arivu and Santhosh Narayanan" },
+    { "id": 5,"language":"Hindi","movie":"Aashique", "title": "EksanamChachiye", "song_length": "3:25", "singer" : "KumarSanu" }
+  ]
+}
